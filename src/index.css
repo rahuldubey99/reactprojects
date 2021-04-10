@@ -77,9 +77,9 @@
  }
  @keyframes up-down{
    0%{
-     transition: translate(10px);
+     transition: translateY(10px);
    }
    100%{
-     transition: translate(-10p);
+     transition: translateY(-10p);
    }
  }
